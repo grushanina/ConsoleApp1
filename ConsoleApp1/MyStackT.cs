@@ -4,6 +4,8 @@ using System.Text;
 
 namespace ConsoleApp1
 {
+
+
     public class MyStackT<T>
     {
         public int Count;
